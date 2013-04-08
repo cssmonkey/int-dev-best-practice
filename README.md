@@ -1,7 +1,7 @@
 Int Dev Best Practice
 ===============
 
-A basic guide to writing consistent HTML
+A basic checklist for creating standards compliant websites.
 <h2>General Best Practice</h2>
 <ul><li> <a href="http://www.bbc.co.uk/guidelines/futuremedia/technical/semantic_markup.shtml" class="external text" rel="nofollow">Markup should be semantic</a>, well formed and generally valid. 
 </li><li> Aside from vendor prefixes and IE specific hacks, CSS should be valid
